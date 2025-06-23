@@ -1,22 +1,40 @@
 # 📊 SanthiPriya Degala – Data Analyst Portfolio
 
-Hi! I'm SanthiPriya, an aspiring data analyst with strong skills in Python, SQL, Power BI, and Excel. I enjoy uncovering insights through data storytelling and analytics.
+Hello! I'm **SanthiPriya Degala**, an aspiring data analyst with strong skills in Python, SQL, Excel, Power BI, and R. I enjoy working with data to uncover insights, solve problems, and support decision-making through visual storytelling.
+
+This portfolio showcases my projects in data cleaning, analysis, visualization, and business reporting.
+
+---
 
 ## 🚀 Skills
-- **Programming:** Python (Pandas, NumPy), R
-- **Databases:** MySQL, Google BigQuery, SQL
-- **Visualization:** Power BI, Tableau, Matplotlib
+
+- **Programming & Analysis:** Python (Pandas, NumPy, Matplotlib), R
+- **Databases & Querying:** SQL, Google BigQuery, MySQL
+- **Visualization Tools:** Power BI, Tableau
 - **Data Tools:** Excel, Jupyter Notebook
+- **Other:** GitHub, Markdown, Microsoft Suite
+
+---
 
 ## 🧠 Projects
 
 | Project | Tools Used | Description |
 |--------|------------|-------------|
-| [Sales Analysis Dashboard](./sales-analysis-dashboard) | Excel, Power BI | Analyzing sales performance, KPIs, regional trends |
-| [Customer Churn Analysis](./customer-churn-analysis) | Python, SQL | Predicting and analyzing customer churn |
-| [COVID-19 Data Exploration](./covid19-data-exploration) | Python, Pandas | Time-series data exploration of global trends |
+| [Sales Analysis Dashboard](../sales-analysis-dashboard) | Excel, Power BI | Analyzing sales data to identify trends, revenue performance, and product insights. |
+| [Customer Churn Analysis](../customer-churn-analysis) | Python, SQL | Exploratory data analysis to find patterns and insights behind customer churn. |
+| [COVID-19 Data Exploration](../covid19-data-exploration) | Python, Pandas | Time-series analysis of COVID-19 trends globally using data cleaning and visualization. |
+
+_(More projects coming soon...)_
+
+---
 
 ## 📫 Contact
-- **LinkedIn:** www.linkedin.com/in/santhipriyadegala
-- **Email:** santhipriya.degala9@gmail.com
+
+- **📧 Email:** santhipriya.degala9@gmail.com
+- **🔗 LinkedIn:** www.linkedin.com/in/santhipriyadegala
+---
+
+_Thank you for visiting my portfolio!_
+
+
 
