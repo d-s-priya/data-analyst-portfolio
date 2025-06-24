@@ -78,5 +78,4 @@ Analyze customer behavior to identify factors leading to churn using the Telco C
 
 ---
 
-## 🔗 GitHub Link
-[🔗 View This Project on GitHub](https://github.com/d-s-priya/data-analyst-portfolio/tree/main/customer-churn-analysis)
+
