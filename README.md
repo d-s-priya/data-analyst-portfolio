@@ -22,8 +22,7 @@ This portfolio showcases my projects in data cleaning, analysis, visualization, 
 |--------|------------|-------------|
 | [Sales Analysis Dashboard](../sales-analysis-dashboard) | Excel, Power BI | Analyzing sales data to identify trends, revenue performance, and product insights. |
 | [Customer Churn Analysis](../customer-churn-analysis) | Python, SQL | Exploratory data analysis to find patterns and insights behind customer churn. |
-| [COVID-19 Data Exploration](../covid19-data-exploration) | Python, Pandas | Time-series analysis of COVID-19 trends globally using data cleaning and visualization. |
-
+| 
 _(More projects coming soon...)_
 
 ---
