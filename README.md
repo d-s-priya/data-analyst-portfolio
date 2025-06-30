@@ -21,8 +21,8 @@ This portfolio showcases my projects in data cleaning, analysis, visualization, 
 | Project | Tools Used | Description |
 |--------|------------|-------------|
 | [Sales Analysis Dashboard](https://github.com/d-s-priya/data-analyst-portfolio/tree/main/sales-analysis-dashboard) | Excel, Power BI | Analyzing sales data to identify trends, revenue performance, and product insights. |
-| [Customer Churn Analysis](https://github.com/d-s-priya/data-analyst-portfolio/tree/main/Customer-Churn-Analysis) | Python, SQL | Exploratory data analysis to find patterns and insights behind customer churn. |
-| 
+| [Customer Churn Analysis](https://github.com/d-s-priya/data-analyst-portfolio/tree/main/Customer-Churn-Analysis) | Python| Exploratory data analysis to find patterns and insights behind customer churn. |
+| [Financial Data Dashboard](https://github.com/d-s-priya/data-analyst-portfolio/tree/main/Financial-Data-Dashboard) | Excel, Power BI | Built an interactive dashboard to track financial KPIs, trends, and monthly performance metrics. 
 _(More projects coming soon...)_
 
 ---
